@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(0, 0%, 8%)
+}
+.grosse-boite {
+    background-color: hsl(0, 0%, 12%);
+    margin:auto;
+    border-radius: 15px 15px 15px 15px;
+}
+img{
+    border-radius: 100px;
+    display: block;
+    margin: auto;
+    width: 125px;
+}
+h1{
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 700;
+    font-size: xx-large;
+    text-align: center;
+}
+h2{
+    color: hsl(75, 94%, 57%);
+    font-family: Inter;
+    font-weight: 600;
+    font-size: small;
+    text-align: center;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 400;
+    font-size: small;
+    text-align: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
