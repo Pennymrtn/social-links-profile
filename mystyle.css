@@ -33,6 +33,17 @@ p{
     font-size: small;
     text-align: center;
 }
+ul{
+    list-style: none;
+}
+li{
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 600;
+    font-size: small;
+    text-align: center;
+    display: block;
 
+}
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
